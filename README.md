@@ -23,7 +23,7 @@
 
 ## 🚀 Skills & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,bash,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,html,git,github,vscode" />
 </p>
 
 ---
