@@ -72,5 +72,17 @@
 </p>
 
 ---
+## 🏆 Certifications
+
+<p align="center">
+<a href="https://www.credly.com/badges/f2c929e0-c196-4418-a755-197fab74a40a">
+<img src="https://images.credly.com/images/47f94746-a150-4f91-abc1-733b68b95504/blob" width="200">
+</a>
+
+<a href="https://storage.hackviser.com/file/hackviser-prod/certificates/aad16b043bb849529eb9fd8c7ac23cdd.webp">
+<img src="https://storage.hackviser.com/file/hackviser-prod/certificates/aad16b043bb849529eb9fd8c7ac23cdd.webp" width="270">
+</a>
+</p>
+---
 
 ⭐ *“Learning never stops in cybersecurity.”*
