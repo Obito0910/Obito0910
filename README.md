@@ -7,8 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-🔐 Passionate Cybersecurity Student  
-🐞 Bug Bounty Hunter (HackerOne)  
+🔐 Passionate Cybersecurity Student   
 🧠 TryHackMe & CTF Player  
 🌱 Currently learning Web Application Penetration Testing  
 ⚡ Focused on Real-World Security & Ethical Hacking  
@@ -16,14 +15,14 @@
 ---
 
 ## 🏆 Certifications
-✅ **Certified Associate Penetration Tester (CAPT)**  
-✅ Hands-on Web Application Security Training  
+<img src="https://storage.hackviser.com/file/hackviser-prod/certificates/aad16b043bb849529eb9fd8c7ac23cdd.webp" width="20"> **Certified Associate Penetration Tester (CAPT)**  
+<img src="https://images.credly.com/images/47f94746-a150-4f91-abc1-733b68b95504/blob" width="20"> **Certification badge.Cyber Security 101 (SEC1) Certified**
 
 ---
 
 ## 🚀 Skills & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,bash,html,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,html,github,vscode" />
 </p>
 
 ---
@@ -44,7 +43,6 @@
 
 ## 🧠 Currently Working On
 - Web Application Pentesting
-- Bug Bounty Hunting
 - CTF Challenges
 - Security Research
 
