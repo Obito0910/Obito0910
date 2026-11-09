@@ -54,7 +54,6 @@
 <p align="center">
 <a href="https://www.credly.com/badges/f2c929e0-c196-4418-a755-197fab74a40a">
 <img src="https://images.credly.com/images/47f94746-a150-4f91-abc1-733b68b95504/blob" width="200">
-<img src="https://aspen.eccouncil.org/Content/Badges/CertifiedNBadges/CPENT_8890F2209CCC.png" width="200">
 </a>
   
 <a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=qfyKqHIrVfPa49S5C6dWoQSppwGTzgbwsWJRPIqnFJ0=">
